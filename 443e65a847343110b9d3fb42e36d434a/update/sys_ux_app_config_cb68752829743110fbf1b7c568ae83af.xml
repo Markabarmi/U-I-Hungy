@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Grocery App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 13:06:44</sys_created_on>
+        <sys_id>cb68752829743110fbf1b7c568ae83af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Grocery App Config</sys_name>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_app_config_cb68752829743110fbf1b7c568ae83af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:06:44</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb68752829743110fbf1b7c568ae83af"/>
+</record_update>

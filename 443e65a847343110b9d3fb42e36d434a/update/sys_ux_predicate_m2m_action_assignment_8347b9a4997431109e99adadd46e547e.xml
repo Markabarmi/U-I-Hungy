@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">cf47b9a46b7431100fb5c05f00937bab</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">8747b9a421743110d93d06fcbe577c86</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 13:01:49</sys_created_on>
+        <sys_id>8347b9a4997431109e99adadd46e547e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_8347b9a4997431109e99adadd46e547e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:01:49</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

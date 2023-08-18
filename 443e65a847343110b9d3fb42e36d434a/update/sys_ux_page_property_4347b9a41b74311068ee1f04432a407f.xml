@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="U&amp;amp;I Hungry">7a47b9a447743110b9d3fb42e36d435c</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">cf47b9a4e374311046690d2ee6acad9e</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 13:01:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4347b9a41b74311068ee1f04432a407f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_page_property_4347b9a41b74311068ee1f04432a407f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:01:50</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_722079_u_i_hun_0.7a47b9a447743110b9d3fb42e36d435c.route.chrome_header.cf47b9a4e374311046690d2ee6acad9e</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=4347b9a41b74311068ee1f04432a407f"/>
+</record_update>

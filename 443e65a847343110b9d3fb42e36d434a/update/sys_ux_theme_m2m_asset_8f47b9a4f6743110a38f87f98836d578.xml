@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">4347b9a462743110654d21944d396f79</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 13:01:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f47b9a4f6743110a38f87f98836d578</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_8f47b9a4f6743110a38f87f98836d578</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:01:51</sys_updated_on>
+        <theme display_value="Light Theme">4f47b9a44f743110c891c7d8483d7fad</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

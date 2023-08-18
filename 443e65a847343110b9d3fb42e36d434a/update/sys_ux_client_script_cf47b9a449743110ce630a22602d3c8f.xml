@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">c347b9a45e743110f5a200d6d934ce9b</macroponent>
+        <name>handle_tab_filter_click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: event.payload.selectedFilter,
+			facetFilters: props.facetFilters,
+			disableSpellCheck: props.disableSpellCheck
+		},
+		false,
+    false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 13:01:49</sys_created_on>
+        <sys_id>cf47b9a449743110ce630a22602d3c8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_tab_filter_click</sys_name>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_client_script_cf47b9a449743110ce630a22602d3c8f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:01:49</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

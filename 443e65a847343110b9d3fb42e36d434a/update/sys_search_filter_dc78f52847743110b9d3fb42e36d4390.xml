@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="List">d078f52847743110b9d3fb42e36d438b</ais_search_source>
+        <label>List</label>
+        <name>List</name>
+        <order>200</order>
+        <search_context_config display_value="Grocery AI Search Configuration">0b687528e7743110a1bf2565637e60a6</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 13:06:48</sys_created_on>
+        <sys_id>dc78f52847743110b9d3fb42e36d4390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_search_filter_dc78f52847743110b9d3fb42e36d4390</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:06:48</sys_updated_on>
+    </sys_search_filter>
+</record_update>

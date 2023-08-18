@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_request">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>number,request_state,due_date,description,opened_at,state,priority,price</field_list>
+        <name>Custom Portal Landing - My Requests Predicate</name>
+        <order/>
+        <predicate_bundle/>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 13:01:50</sys_created_on>
+        <sys_id>8347b9a4ed743110b5132fef8d1dd087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Landing - My Requests Predicate</sys_name>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_8347b9a4ed743110b5132fef8d1dd087</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:01:50</sys_updated_on>
+        <table>sc_request</table>
+        <ux_template display_value="Custom Portal Landing - My Requests template">4b47b9a4137431102ae72c89681f8f89</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

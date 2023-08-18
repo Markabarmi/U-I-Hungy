@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="91f475e047743110b9d3fb42e36d4345" label="Items" max_length="40" name="x_722079_u_i_hun_0_items" type="collection">
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Favourite" max_length="40" name="favourite" type="boolean"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

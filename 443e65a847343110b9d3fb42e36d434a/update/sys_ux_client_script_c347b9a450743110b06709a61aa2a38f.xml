@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Settings Page">4b47b9a4bf74311030353860dd8082a1</macroponent>
+        <name>breadcrumbs_1_items</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "code" : null,
+  "message" : "Settings",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+            "label": helpers.translateSync("Home"),
+            "icon": "home-outline",
+            "hideLabel": false
+        },
+        {
+            "label": helpers.translateSync("Settings")
+        }
+    ];
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 13:01:49</sys_created_on>
+        <sys_id>c347b9a450743110b06709a61aa2a38f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1_items</sys_name>
+        <sys_package display_value="U&amp;amp;I Hungry" source="x_722079_u_i_hun_0">443e65a847343110b9d3fb42e36d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="U&amp;amp;I Hungry">443e65a847343110b9d3fb42e36d434a</sys_scope>
+        <sys_update_name>sys_ux_client_script_c347b9a450743110b06709a61aa2a38f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 13:01:49</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

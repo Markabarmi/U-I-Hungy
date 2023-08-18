@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c6a0756c47343110b9d3fb42e36d439d" label="List" max_length="40" name="x_722079_u_i_hun_0_list" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Shop Date" max_length="40" name="shop_date" type="glide_date"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Shopped" sequence="1" value="shopped"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+            </choice>
+        </element>
+        <element choice="1" label="Store" max_length="40" name="store" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Tesco" sequence="0" value="tesco"/>
+                <element inactive_on_update="false" label="Asda" sequence="1" value="asda"/>
+                <element inactive_on_update="false" label="Aldi" sequence="2" value="aldi"/>
+                <element inactive_on_update="false" label="Sainsburys" sequence="3" value="sainsburys"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Person" sequence="0" value="in_person"/>
+                <element inactive_on_update="false" label="Online" sequence="1" value="online"/>
+            </choice>
+        </element>
+    </element>
+</database>
